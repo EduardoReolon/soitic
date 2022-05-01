@@ -10,6 +10,8 @@ Necessário ter [.Net 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0 
 
 ### Configurações iniciais
 
+Todos os procedimentos executados na pasta server.
+
 Copiar o arquivo appsettings.json.example para a mesma pasta mas com o nome appsettings.json. Adicionar nesse as configurações do banco de dados MySQL local. O schema deve existir ou ser criado no banco antes dos próximos passos
 
 Rodar a seguinte linha de comando para que as tabelas sejam criadas
